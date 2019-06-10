@@ -25,7 +25,12 @@
     "braces": "^3.0.2",
     "event-stream": "^3.3.4",
     "express": "^4.15.4",
+    "handlebars": "^4.1.2",
     "if-env": "^1.0.4",
-    "mongoose": "^5.0.17"
+    "js-yaml": "^3.13.1",
+    "merge": "^1.2.1",
+    "mime": "^2.4.4",
+    "mongoose": "^5.0.17",
+    "webpack-dev-server": "^3.7.1"
   }
 }
